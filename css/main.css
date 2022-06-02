@@ -1,0 +1,381 @@
+main{
+    color: #fff;
+}
+
+.divisao{
+    display: flex;
+}
+
+.capa{
+    background-image: url(../assets/img1.png);
+    background-repeat: no-repeat;
+    background-color: #9767A9;
+    background-size: 100%;
+    width: 100%;
+    height: 550px;
+    flex-direction: row;
+    display: flex;
+    position: block;
+}
+
+.capa h1{
+    display: flex;
+    font-size: 4.2vw;
+    width: 50%;
+    padding: 130px;
+    position: block;
+    margin-top: 8rem;
+    margin-left: 4rem;
+}
+
+.capa p{
+    display: flex;
+    font-size: 1.8vw;
+    padding: 150px;
+    width: 50%;
+    margin-right: 4rem;
+    position: relative;
+    top: 155px;
+}
+
+.blocoUm{
+    display: flex;
+    background-color: #9767A9;
+    padding-left: 2rem;
+}
+
+.blocoUm h1{
+    display: flex;
+    font-size: 3.6vw;
+    width: 58%;
+    padding: 10px;
+    position: block;
+    margin-left: 4rem;
+}
+
+.blocoUm p{
+    display: flex;
+    font-size: 1.2vw;
+    width: 38%;
+    position: block;
+    padding: 15px;
+    margin: 25px;
+    margin-left: none;
+    margin-bottom: 50px;
+}
+
+.blocoDois{
+    position: block;
+    margin-top: -6rem;
+    width: 50%;
+}
+
+.blocoDois img{
+    width: 300px;
+    margin-left: 7rem;
+    display: relative;
+    width: 90%;   
+}
+
+.blocoDois h1{
+    display: flex;
+    font-size: 1.8vw;
+    width: 70%;
+    position: block;
+}
+
+.blocoDois p{
+    display: flex;
+    font-size: 1vw;
+    width: 100%;
+    position: block;
+    margin-top: 10px;
+}
+
+.fundoCardDois{
+    background-color: #9767A9;
+    position: relative;
+    margin-left: 13rem;
+    margin-right: 3rem;
+    margin-top: -8rem;
+    padding: 15px;
+}
+
+.blocoTres{
+    position: block;
+    margin-top: 13rem;
+    margin-right: 3rem;
+    width: 50%;
+}
+
+.blocoTres img{
+    width: 300px;
+    margin-left: 4rem;
+    display: relative;
+    width: 90%;   
+}
+
+.blocoTres h1{
+    display: flex;
+    font-size: 1.8vw;
+    width: 70%;
+    position: block;
+}
+
+.blocoTres p{
+    display: flex;
+    font-size: 1vw;
+    width: 100%;
+    position: block;
+    margin-top: 10px;
+}
+
+.fundoCardTres{
+    background-color: #9767A9;
+    position: relative;
+    margin-left: 9rem;
+    margin-right: 7rem;
+    margin-top: -9rem;
+    padding: 15px;
+}
+
+.blocoQuatro{
+    position: block;
+    margin-top: -11rem;
+    width: 50%;
+}
+
+.blocoQuatro img{
+    width: 300px;
+    margin-left: 7rem;
+    display: relative;
+    width: 90%;   
+}
+
+.blocoQuatro h1{
+    display: flex;
+    font-size: 1.8vw;
+    width: 70%;
+    position: block;
+}
+
+.blocoQuatro p{
+    display: flex;
+    font-size: 1vw;
+    width: 100%;
+    position: block;
+    margin-top: 10px;
+}
+
+.fundoCardQuatro{
+    background-color: #9767A9;
+    position: relative;
+    margin-left: 13rem;
+    margin-right: 3rem;
+    margin-top: -9rem;
+    padding: 15px;
+}
+
+.blocoCinco{
+    position: block;
+    margin-top: 5rem;
+    margin-right: 3rem;
+    width: 50%;
+}
+
+.blocoCinco img{
+    width: 300px;
+    margin-left: 4rem;
+    display: relative;
+    width: 90%;   
+}
+
+.blocoCinco h1{
+    display: flex;
+    font-size: 1.8vw;
+    width: 70%;
+    position: block;
+}
+
+.blocoCinco p{
+    display: flex;
+    font-size: 1vw;
+    width: 100%;
+    position: block;
+    margin-top: 10px;
+}
+
+.fundoCardCinco{
+    background-color: #9767A9;
+    position: relative;
+    margin-left: 9rem;
+    margin-right: 6rem;
+    margin-top: -2rem;
+    padding: 15px;
+}
+
+.blocoSeis{
+    position: block;
+    margin-top: -18rem;
+    width: 50%;
+}
+
+.blocoSeis img{
+    width: 300px;
+    margin-left: 7rem;
+    display: relative;
+    width: 90%;   
+}
+
+.blocoSeis h1{
+    display: flex;
+    font-size: 1.8vw;
+    width: 70%;
+    position: block;
+}
+
+.blocoSeis p{
+    display: flex;
+    font-size: 1vw;
+    width: 100%;
+    position: block;
+    margin-top: 10px;
+}
+
+.fundoCardSeis{
+    background-color: #9767A9;
+    position: relative;
+    margin-left: 13rem;
+    margin-right: 3rem;
+    margin-top: -8rem;
+    padding: 15px;
+}
+
+.blocoSete{
+    position: block;
+    margin-top: 2rem;
+    margin-right: 3rem;
+    width: 50%;
+}
+
+.blocoSete img{
+    width: 300px;
+    margin-left: 4rem;
+    display: relative;
+    width: 90%;   
+}
+
+.blocoSete h1{
+    display: flex;
+    font-size: 1.8vw;
+    width: 70%;
+    position: block;
+}
+
+.blocoSete p{
+    display: flex;
+    font-size: 1vw;
+    width: 100%;
+    position: block;
+    margin-top: 10px;
+}
+
+.fundoCardSete{
+    background-color: #9767A9;
+    position: relative;
+    margin-left: 9rem;
+    margin-right: 7rem;
+    margin-top: -9rem;
+    padding: 15px;
+}
+
+.blocoOito{
+    position: block;
+    margin-top: -11rem;
+    width: 50%;
+}
+
+.blocoOito img{
+    width: 300px;
+    margin-left: 7rem;
+    display: relative;
+    width: 90%;   
+}
+
+.blocoOito h1{
+    display: flex;
+    font-size: 1.8vw;
+    width: 70%;
+    position: block;
+}
+
+.blocoOito p{
+    display: flex;
+    font-size: 1vw;
+    width: 100%;
+    position: block;
+    margin-top: 10px;
+}
+
+.fundoCardOito{
+    background-color: #9767A9;
+    position: relative;
+    margin-left: 13rem;
+    margin-right: 3rem;
+    margin-top: -8rem;
+    padding: 15px;
+}
+
+.blocoNove{
+    position: block;
+    margin-top: 13rem;
+    margin-right: 50px;
+    width: 50%;
+}
+
+.blocoNove img{
+    margin-left: 10rem;
+    display: relative;
+    width: 70%;   
+}
+
+.containerFotos{
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    margin-top: 100px;
+    margin-bottom: 70px;
+}
+
+.containerFotos img{
+    padding: 5px;
+}
+
+.divImagensUm{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+
+.divImagensDois{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}
+.divImagensTres{
+    display: flex;
+    flex-direction: column;
+    width: 199px;
+}
+.divImagensQuatro{
+    display: flex;
+    flex-direction: column;
+    width: 299px;
+}
+.divImagensCinco{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}
+
+
